@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>35348409332-g1ipd95slna60c6ne9cfq49qugq1ub7d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.35348409332-g1ipd95slna60c6ne9cfq49qugq1ub7d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>35348409332-r3lukl59uvjvn81r75lb4djii9puuucb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPAWZEYSsG_7VZOlN7D4yCiST6VvJuSyk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>35348409332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tictac.wrteam.TicTacToe</string>
+	<key>PROJECT_ID</key>
+	<string>tictact-a37a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tictact-a37a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:35348409332:ios:2d72bb9c45c2e97dd767a1</string>
+	<key>DATABASE_URL</key>
+	<string>https://tictact-a37a5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
